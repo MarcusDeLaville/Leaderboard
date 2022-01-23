@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7587c530a995d3342b4133a04fcfde10, type: 3}
+    totalSpriteSurfaceArea: 281181
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4bc10b00792f6154e92abe3a68cace07, type: 3}
+  - {fileID: 21300000, guid: b47c53207ff44ab42ada1c8d623b6b7b, type: 3}
+  - {fileID: 21300000, guid: f9941c8353657d347a4f2cae8578c3e7, type: 3}
+  - {fileID: 21300000, guid: 5f59ed35c1831d0418deee7791351520, type: 3}
+  - {fileID: 21300000, guid: 37a8fd456b1362343a2279c5f358322a, type: 3}
+  - {fileID: 21300000, guid: a58cb875b6aa4464da0369e47e6d7484, type: 3}
+  - {fileID: 21300000, guid: 7b1fd5a8ff9e1d7409b2bc2785e1551c, type: 3}
+  - {fileID: 21300000, guid: 8ca7aa8b7d7e74d4c9cdffaa6b961981, type: 3}
+  - {fileID: 21300000, guid: fb6476cbcdc49df4d952471946311103, type: 3}
+  - {fileID: 21300000, guid: 52de7f1dfe2e9634ab337d751d4a172b, type: 3}
+  - {fileID: 21300000, guid: bb58511e50962e34d8a64f0ec9b02124, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bubble_text
+  - day_mainwindow_field
+  - day_mainwindow_border
+  - red_ellipse
+  - leaf_3
+  - WindowButtonRedActive
+  - day_mainwindow_header_wood
+  - day_mainwindow_inside_full_field
+  - day_object_active
+  - day_mainwindow_field_1px
+  - WindowButtonGreenActive
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
